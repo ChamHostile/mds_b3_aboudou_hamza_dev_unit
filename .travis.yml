@@ -1,10 +1,10 @@
 sudo : false
 langague : node_js
 node_js:
-- node
+- '8'
 branches : 
   only:
-    -master
+    -main
 cache:
   directories:
     - node_modules
