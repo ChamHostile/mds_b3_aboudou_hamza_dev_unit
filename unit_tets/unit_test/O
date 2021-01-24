@@ -1,0 +1,11 @@
+user.email=hamza.aboudou@gmail.com
+user.name=ChamHostile
+core.repositoryformatversion=0
+core.filemode=true
+core.bare=false
+core.logallrefupdates=true
+core.worktree=../../../unit_test
+remote.origin.url=https://github.com/GBeauny/unit_test
+remote.origin.fetch=+refs/heads/*:refs/remotes/origin/*
+branch.master.remote=origin
+branch.master.merge=refs/heads/master
